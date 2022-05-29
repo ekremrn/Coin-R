@@ -17,6 +17,6 @@ ipython_config.py
 .env
 
 # Paths
-models/
+model/
 data/
 doc/
