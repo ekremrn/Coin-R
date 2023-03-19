@@ -1,4 +1,4 @@
 # Coin-R
-Cryptocurrency price prediction using machine learning
+Cryptocurrency price prediction using machine learning techinques
 
-Gonna be here soon!!!
+Gonna be here soon
