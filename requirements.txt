@@ -2,3 +2,5 @@ pandas
 argparse
 python-dotenv
 python-binance
+scikit-learn
+xgboost 
